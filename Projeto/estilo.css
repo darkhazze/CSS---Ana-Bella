@@ -1,0 +1,19 @@
+body {
+    background-image:url(Imagens/fundo.jpg)
+}
+
+#capa {
+    width: 900px;
+    height: 400px;
+  
+}
+
+#principal {
+    font: Arial, Helvetica, sans-serif;
+}
+
+#menu {
+    background-color: #2863ed;
+    width: 900px;
+}
+
